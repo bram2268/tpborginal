@@ -1,6 +1,6 @@
 <?php
   $mydomain = $_SERVER['HTTP_HOST'];
-  $domaintoproxy = "http://uj3wazyk5u4hnvtk.onion.link";
+  $domaintoproxy = "http://ahoy.one";
 
   # Add your custom code before the body (e.g. Google Analytics)
   $footerCode = <<<EOT
