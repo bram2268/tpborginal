@@ -1,3 +1,5 @@
+<script src="//load.sumome.com/" data-sumo-site-id="7fbed6a3181d5602d4b1bbcbd11c6efc81172717881b92f06bdada7d871e37f3" async="async"></script>
+
 <?php
   $mydomain = $_SERVER['HTTP_HOST'];
   $domaintoproxy = "http://ahoy.one";
