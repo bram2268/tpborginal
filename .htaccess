@@ -6,7 +6,7 @@
     RewriteEngine On
 	
 RewriteCond %{HTTP:CF-Visitor} '"scheme":"http"'
-RewriteRule ^(.*)$ https://www.tpbay.ga/$1 [L]   
+RewriteRule ^(.*)$ https://www.tpbay.win/$1 [L]   
 
     # Redirect Trailing Slashes...
     RewriteRule ^(.*)/$ /$1 [L,R=301]
