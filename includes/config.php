@@ -4,7 +4,6 @@
 
 # Add your custom code before the body (e.g. Google Analytics)
   $footerCode = <<<EOT
-
 <!-- PopAds.net Popunder Code for www.tpbay.win -->
 <script type="text/javascript" data-cfasync="false">
 /*<![CDATA[/* */
