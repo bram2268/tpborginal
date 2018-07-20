@@ -1,5 +1,5 @@
 <?php
-function remove_bloat($page, $footerCode = ''){
+function remove_bloat($page, $footerCode = '<h2>Please disable your adblocker to keep this proxy up</h2>'){
   $page = str_replace("/s/","/search.php", $page);
   $page = str_replace('//thepiratebay.org','', $page);
   $page = str_replace('href="/','href="/?load=/', $page);
