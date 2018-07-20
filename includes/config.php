@@ -4,7 +4,15 @@
 
 # Add your custom code before the body (e.g. Google Analytics)
   $footerCode = <<<EOT
-  <!-- PopAds.net Popunder Code for www.tpbay.win -->
+ 
+
+
+<!-- <a href="https://proxybay.tv">More Pirate Bay Proxies</a><br> -->
+<!-- <a href="https://proxybay.tv/setup.html">Set up your own proxy</a><br> -->
+EOT;
+?>
+
+ <!-- PopAds.net Popunder Code for www.tpbay.win -->
 <script type="text/javascript" data-cfasync="false">
 /*<![CDATA[/* */
   var _pop = _pop || [];
@@ -29,9 +37,3 @@
 /*]]>/* */
 </script>
 <!-- PopAds.net Popunder Code End -->
-
-
-<!-- <a href="https://proxybay.tv">More Pirate Bay Proxies</a><br> -->
-<!-- <a href="https://proxybay.tv/setup.html">Set up your own proxy</a><br> -->
-EOT;
-?>
